@@ -1,0 +1,60 @@
+ProductId,ProductName,Price,Stock,Description,ProductIcon,CategoryType
+C000001,Bedsheet Set,100,25,For beds,https://www.ulcdn.net/images/products/321064/original/John_Bedsheet_Set_Grey_KIDS_Double_LP.jpg?1614312809,2
+C000002,Bedsheet Set,119,20,For beds,https://cdn.shopify.com/s/files/1/0611/5586/8908/products/AngelinaBedsheetSet-Watermark_DarkGrey-01_1024x1024.jpg?v=1642998440,2
+C000003,Bedsheet Set,100,20,For beds,http://thoppia.com/wp-content/uploads/2018/09/broad-stripe-cotton-bedsheet.jpg,2
+C000004,Bedsheet Set,90,24,For beds,https://www.ulcdn.net/opt/www.ulcdn.net/images/products/321202/product/Paris_Bedsheet_Set_Beige_Geometric_King_LP.jpg?1614318533,2
+C000005,Bedsheet Set,95,17,For beds,https://n1.sdlcdn.com/imgs/j/u/a/Klotthe-Cotton-Double-Bedsheet-with-SDL357517363-1-ff8e8.jpg,2
+C000006,Cushions,70,30,Cushions For Sofa,https://media.istockphoto.com/photos/cushion-on-sofa-in-living-room-picture-id981020260?k=20&m=981020260&s=612x612&w=0&h=aFCYcXEKbzQSv_l_ykRc3p4gPVzzx2coEQYRyzugt4A=,2
+C000007,Cushions,85,37,Cushions For Sofa,https://indiacircus.com/pub/media/catalog/product/cache/1/image/e9c3970ab036de70892d86c6d221abfe/i/n/india-circus-krishna-baugh-cushion-cover-set-of-5-52121512sd01586-1.jpg,2
+C000008,Cushions,95,46,Cushions For Sofa,https://m.media-amazon.com/images/I/81E8eV28TRL._SL1500_.jpg,2
+C000009,Cushions,97,46,Cushions For Sofa,https://voguenest.com/wp-content/uploads/2019/02/Cute-Decorative-Geometrically-Patterned-Soft-Velvet-Cushion-Cover-800x800.jpg,2
+C000010,Pillows,119,25,Pillows For Bed,https://www.ikea.com/global/assets/navigation/images/polyester-pillows-20534.jpeg?imwidth=500,2
+C000011,Pillows,109,31,Pillows For Bed,https://www.shopmarriott.com/images/products/v2/xlrg/Marriott-down-alternative-eco-pillow-MAR-108-ECO_xlrg.jpg,2
+C000012,Pillows,90,29,Pillows For Bed,"https://www.bedbathntable.com.sg/media/catalog/product/M/_/M_F-Sorano-Linen-Blend-Cushions-21912-R_6.jpg?quality=100&bg-color=255,255,255&fit=crop&width=600&height=600&canvas=600:600&auto=webp",2
+C000013,Pillows,129,29,Pillows For Bed,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJED_r7mSqP7BxmSHbwlBxRR6okrbLILl4Vw&usqp=CAU,2
+C000014,Pillow Covers,59,33,Pillow Covers For Pillows,https://m.media-amazon.com/images/I/91zK1D0S5ML.jpg,2
+C000015,Pillow Covers,63,37,Pillow Covers For Pillows,https://www.swayamindia.com/3387-home_default/yellow-leaves-pillow-cover.jpg,2
+C000016,Pillow Covers,59,30,Pillow Covers For Pillows,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNffLcm9FOwdxxyzG8gMW106GDlJI08OzdA&usqp=CAU,2
+C000017,Pillow Covers,65,30,Pillow Covers For Pillows,https://3.imimg.com/data3/TN/HV/MY-529742/pillow-covers-250x250.jpeg,2
+C000018,Curtains,200,20,Curtains for Doors And Windows,https://assets.ajio.com/medias/sys_master/root/20220222/JGxP/62147f83aeb26921afaaadf4/-1117Wx1400H-461768801-white-MODEL.jpg,2
+C000019,Curtains,250,20,Curtains for Doors And Windows,https://cdn.mos.cms.futurecdn.net/3rPqUHU3aWvtDu8k8UdSQ9-1200-80.jpg,2
+C000020,Curtains,150,20,Curtains for Doors And Windows,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkOuyd2yOElnIUn3ecRE_9JLmKn8eH108jZg&usqp=CAU,2
+C000021,Curtains,170,20,Curtains for Doors And Windows,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMmzB1dRlbtSd4KBZNB8GyLx0gWV5MHcA0VA&usqp=CAU,2
+C000022,Table Covers,70,38,Table Covers For Tables,https://rukminim1.flixcart.com/image/312/312/kz5vwy80/table-cover/0/h/t/6-seater-dot-printed-72-inch-6-seater-pvc-round-table-cover-with-original-imagb8dnnzhrpzbq.jpeg?q=70,2
+C000023,Table Covers,65,45,Table Covers For Tables,https://static.cilory.com/540677-large_default/estonished-dark-grey-round-table-cover.jpg.webp,2
+C000024,Table Covers,55,31,Table Covers For Tables,https://i.pinimg.com/736x/f7/69/0c/f7690c508d115002c51bdbd15fe4a08f.jpg,2
+C000025,Table Covers,59,31,Table Covers For Tables,https://assetscdn1.paytm.com/images/catalog/product/H/HO/HOMSWAYAM-BEIGESWAY191A7610F9F/1563111311264_0..jpg?imwidth=320&impolicy=hq,2
+C000026,Sofa Covers,60,33,Sofa Covers For Sofa,https://i.pinimg.com/originals/09/ca/7b/09ca7b33bf504a624d454d3db3c4fa7a.jpg,2
+C000027,Sofa Covers,66,32,Sofa Covers For Sofa,http://sc04.alicdn.com/kf/HTB1xZPyX.LrK1Rjy1zbq6AenFXaC.jpg,2
+C000028,Sofa Covers,64,27,Sofa Covers For Sofa,https://m.media-amazon.com/images/I/61vJfReGHsL._SY355_.jpg,2
+C000029,Sofa Covers,59,27,Sofa Covers For Sofa,https://img2.exportersindia.com/product_images/bc-full/2019/9/4093506/sofa-cover-1568629574-5081851.jpeg,2
+E000001,Multimedia Speaker,699,80,Home Theatre,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTtKGHzKgSSmVZc1HICJ7sJxxgqmLhvAv15kFhicfwLY30jnyJY2p8ujzzvkYr0FLhgoMEhJmh3af8&usqp=Cac,1
+E000002,Home Theatres,4699,65,Home Theatre,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ9uKNBBjVJz4BlOlWVO-1rMRUvkROZiKWVB-1gPAP2XZpOAs7P0-wL-TnesjPPauAO04nrqRB_4ZI&usqp=Cac,1
+E000003,Multimedia Speaker,1999,75,Home Theatre,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ-Hswbh7xmFdQPgXYj5yF62ur3q8x_dYl_nsAz-tdFUGTldVqPFeJcLVIqupUWO0uC1rJXD9g2qw&usqp=CAc,1
+E000004,Smart LED TV,7890,35,Television,https://www.mylloyd.com/media/products/thumb_L40FS451A.jpg,1
+E000005,Samsung TV,15490,75,Television,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB3hMK_VXYkeFzZXedRkKsSlgbuDCIiwopOQ&usqp=CAU,1
+E000006,One Plus TV,14999,60,Television,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTngaJGfs_1u0XRGX1Xz__NveNdl2BBFSyuWBisVqdu69Hl3Ust843hqtBp5hj3YMD5rK8&usqp=CAU,1
+E000007,Boat Headset,1199,100,Head Set,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTksh4FoMUesdxaulUu2fVNOttQkTFetO0ZLQ&usqp=CAU,1
+E000008,Boat Rockerz,1499,80,Head Set,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5mKLtdtT3Of1eecKkNT_aTMMIsE-XPpubeA&usqp=CAU,1
+E000009,Wired Headset,499,150,Head Set,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjsLpWCGZN7sn6b_8w5zC18dBqEnnvZWoIxQ&usqp=CAU,1
+E000010,TechFire HeadPhones,899,90,Head Set,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoGaAxomk5BA-Y5kbPyOCxF7T2aqjdJWzYuw&usqp=CAU,1
+E000011,Sony Bluetooth,699,85,Head Set,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyFxmVsNCNt4spTPd2o6PRkw5pmwNcIYUr2wm5SyynZlKu_GXXaJnGmGjghTTlAguWQxs&usqp=CAU,1
+E000012,Bluetooth headset,799,75,Head Set,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNoX-10zE3anxCZxpA63eKKWHk5rDebBjDDQ&usqp=CAU,1
+E000013,Whirlpool Fridge,13690,50,Fridge,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUXuXxwxy5yZpjZpjMw-EP6ipkfEWTGDP0og&usqp=CAU,1
+E000014,Godrej Fridge,19790,70,Fridge,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzUXGi-Jp2UGgdGRWOFXyPCYED8mji692I5g&usqp=CAU,1
+E000015,LG Fridge,17790,30,Fridge,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdJj27l5R03GY6hJXwChXHTRxdE1lFfzMdIQ&usqp=CAU,1
+E000016,Samsung Fridge,16800,25,Fridge,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4cYKU1HC7yWTvGNTosjZsdO58-P7Tr9rbuQ&usqp=CAU,1
+E000017,Whirlpool,20950,10,Washing Machine,https://upload.wikimedia.org/wikipedia/commons/0/08/LGwashingmachine.jpg,1
+E000018,Samsung,14980,65,Washing Machine,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRX3muYx_Ar3OA_9V6r6kWUdJ_5X0SqqjVVA&usqp=CAU,1
+E000019,Whirlpool ,11990,30,Washing Machine,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_Z3KP3EtDdh1AubyIO3uFfQQw8jhMn7GMw&usqp=CAU,1
+E000020,Panasonic,13990,15,Washing Machine,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiyaRzg3HxRuGivh-yAgMDNfF1YzICeDH2UA&usqp=CAU,1
+E000021,LG,18990,120,Washing Machine,https://m.media-amazon.com/images/I/61e+WM19-yL._SX425_.jpg,1
+E000022,LG,25000,55,Washing Machine,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZRxjJFA5P2CKagymjD-6BidJfyUrXMadlQ&usqp=CAU,1
+E000023,Prestige,3249,67,Mixer Grinder,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTo8v58eDZfdmYhye9iSKXa9Iyz-a8Um9XDoddTASFzItd8JQpDCtLbxaJcDTy3raTLU&usqp=CAU,1
+E000024,Butterfly,3499,90,Mixer Grinder,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFdx1BO2qO6I9wkjDUnoreiPTDS4FVonvYOw&usqp=CAU,1
+E000025,Preethi,5100,2,Mixer Grinder,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ob4DAmRH49_hp5ui9ikQ2RXFXeX2dMoVRw&usqp=CAU,1
+E000026,Pigeon Pearl,2999,45,Mixer Grinder,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl8xuI8xYlUhKJVN5SdWPp1DFpE2IV3K_v8A&usqp=CAU,1
+E000027,Oppo,22999,80,Mobile Phones,https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno7-4g-1.jpg,1
+E000028,Redme ,15967,72,Mobile Phones,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSefW96LmzXBKma19Y4v26GquvxYgTsfGRPqg&usqp=CAU,1
+E000029,Realme,15499,49,Mobile Phones,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeb_MjXycrliZwpnt5UVhSUBuU-zHJNaS7Ew&usqp=CAU,1
+E000030,One Plus,37999,50,Mobile Phones,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWKA18NzEOUpwCjzoyr9VcOPtFpGRrWfvAA&usqp=CAU,1
